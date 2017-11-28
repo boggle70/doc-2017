@@ -1,0 +1,5 @@
+
+sudo apt install ocl-icd-opencl-dev
+
+/usr/lib/x86_64-linux-gnu/libOpenCL.so
+
